@@ -12,4 +12,3 @@ Basic workflow:
 Branches are used for safe experiments.
 Conflicts happen when Git cannot automatically merge changes.
 Fetch downloads remote changes without applying them.
-This line will be reverted
