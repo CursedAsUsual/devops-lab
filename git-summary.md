@@ -13,3 +13,4 @@ Branches are used for safe experiments.
 Conflicts happen when Git cannot automatically merge changes.
 Fetch downloads remote changes without applying them.
 Stash saves unfinished work.
+Apply keeps stash in the stash list.
